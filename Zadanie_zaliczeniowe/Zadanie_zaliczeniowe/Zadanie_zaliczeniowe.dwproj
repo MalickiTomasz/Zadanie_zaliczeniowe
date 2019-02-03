@@ -6,6 +6,28 @@
     <Name>Zadanie_zaliczeniowe.database</Name>
     <FullPath>Zadanie_zaliczeniowe.database</FullPath>
   </Database>
+  <Dimensions>
+    <ProjectItem>
+      <Name>DCity.dim</Name>
+      <FullPath>DCity.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DCustomer.dim</Name>
+      <FullPath>DCustomer.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DDate.dim</Name>
+      <FullPath>DDate.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DEmployee.dim</Name>
+      <FullPath>DEmployee.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DStockItem.dim</Name>
+      <FullPath>DStockItem.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>WWI_DW.ds</Name>
