@@ -6,6 +6,18 @@
     <Name>Zadanie_zaliczeniowe.database</Name>
     <FullPath>Zadanie_zaliczeniowe.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>WWI_DW.cube</Name>
+      <FullPath>WWI_DW.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>WWI_DW.partitions</Name>
+          <FullPath>WWI_DW.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
   <Dimensions>
     <ProjectItem>
       <Name>DCity.dim</Name>
